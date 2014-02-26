@@ -31,8 +31,12 @@ export PATH="$PATH:/usr/local/bin/"
 export PATH="/usr/local/git/bin:/sw/bin/:/usr/local/bin:/usr/local/:/usr/local/sbin:/usr/local/mysql/bin:$PATH"
 export PATH="$PATH:/Applications/"
 
-export HISTFILESIZE=10000
+export HISTTIMEFORMAT="%h %d %H:%M:%S> "
 export HISTCONTROL=erasedups
+export HISTCONTROL=ignoreboth
+export HISTIGNORE="df*:free*:c*:h*"
+
+export HISTFILESIZE=10000
 export HISTSIZE=20000
 shopt -s histappend
 
