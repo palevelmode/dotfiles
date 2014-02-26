@@ -19,8 +19,9 @@ Bundle 'gmarik/vundle'
 Bundle 'scrooloose/nerdtree'
 Bundle 'scrooloose/syntastic'
 Bundle 'altercation/vim-colors-solarized'
-Bundle 'klen/python-mode'
+"Bundle 'klen/python-mode'
 Bundle 'bling/vim-airline'
+Bundle 'valloric/youcompleteme'
 
 filetype plugin indent on     " required
 "
