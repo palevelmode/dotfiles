@@ -1,0 +1,1025 @@
+    1  ifconfig
+    2  ifconfig
+    3  wget
+    4  cp Desktop/solarized.vim /usr/share/vim/vim73/colors/
+    5  sudo cp Desktop/solarized.vim /usr/share/vim/vim73/colors/
+    6  clear
+    7  cp Desktop/bash.profile ~/.bash_profile
+    8  ifconfig
+    9  ifconfig
+   10  wget
+   11  cp Desktop/solarized.vim /usr/share/vim/vim73/colors/
+   12  sudo cp Desktop/solarized.vim /usr/share/vim/vim73/colors/
+   13  cp Desktop/bash.profile ~/.bash_profile
+   14  git core
+   15  mkdir ~/.vim
+   16  mkdir ~/.vim/colors
+   17  cp Desktop/solarized.vim ~/.vim/colors/
+   18  cd Desktop/Solarized\ Dark.itermcolors ~/
+   19  cd Desktop/Solarized\ Dark.itermcolors ~
+   20  cd Desktop/Solarized\ Dark.itermcolors /Users/mult1c4st/
+   21  cp Desktop/Solarized\ Dark.itermcolors /Users/mult1c4st/
+   22  cd /Users/mult1c4st/
+   23  clear
+   24  ls
+   25  ls -al
+   26  sh Solarized\ Dark.itermcolors 
+   27  rm -rf Solarized\ Dark.itermcolors 
+   28  clear
+   29  vim
+   30  cd .vim/colors/
+   31  cp Desktop/vimrc ~/.vimrc
+   32  cp Desktop/vimrc ~/.gimrc
+   33  vim
+   34  cd .vim/colors/
+   35  cp Desktop/vimrc ~/.vimrc
+   36  cp Desktop/vimrc ~/.gimrc
+   37  vim
+   38  python
+   39  python3
+   40  ls -al
+   41  vim /Users/mult1c4st/vimrc 
+   42  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+   43  brew doctor
+   44  brew install wget
+   45  wget
+   46  wget https://developer.apple.com/downloads/index.action
+   47  clear
+   48  brew uninstall wget
+   49  make
+   50  python3
+   51  ls -al
+   52  vim /Users/mult1c4st/vimrc 
+   53  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+   54  brew doctor
+   55  brew install wget
+   56  wget
+   57  wget https://developer.apple.com/downloads/index.action
+   58  brew uninstall wget
+   59  make
+   60  cd python_study/
+   61  vim exer1_1.py
+   62  python3 exer1_1.py 
+   63  vim intro_to_turtle.py
+   64  python intro_to_turtle.py
+   65  vim ~/.gimrc 
+   66  ls -al ~/ 
+   67  cp ~/.gimrc ~/.gvimrc
+   68  clear
+   69  vim ~/.gvimrc
+   70  vim ~/.vimrc
+   71  cp Desktop/solarized.vim /usr/share/vim/vim73/colors/
+   72  sudo cp Desktop/solarized.vim /usr/share/vim/vim73/colors/
+   73  cp Desktop/bash.profile ~/.bash_profile
+   74  git core
+   75  mkdir ~/.vim
+   76  mkdir ~/.vim/colors
+   77  cp Desktop/solarized.vim ~/.vim/colors/
+   78  cd Desktop/Solarized\ Dark.itermcolors ~/
+   79  cd Desktop/Solarized\ Dark.itermcolors ~
+   80  cd Desktop/Solarized\ Dark.itermcolors /Users/mult1c4st/
+   81  cp Desktop/Solarized\ Dark.itermcolors /Users/mult1c4st/
+   82  cd /Users/mult1c4st/
+   83  ls
+   84  ls -al
+   85  sh Solarized\ Dark.itermcolors 
+   86  rm -rf Solarized\ Dark.itermcolors 
+   87  vim
+   88  cd .vim/colors/
+   89  cp Desktop/vimrc ~/.vimrc
+   90  cp Desktop/vimrc ~/.gimrc
+   91  vim
+   92  cd .vim/colors/
+   93  cp Desktop/vimrc ~/.vimrc
+   94  cp Desktop/vimrc ~/.gimrc
+   95  vim
+   96  python
+   97  python3
+   98  ls -al
+   99  vim /Users/mult1c4st/vimrc 
+  100  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+  101  brew doctor
+  102  brew install wget
+  103  wget
+  104  wget https://developer.apple.com/downloads/index.action
+  105  brew uninstall wget
+  106  make
+  107  python3
+  108  ls -al
+  109  vim /Users/mult1c4st/vimrc 
+  110  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+  111  brew doctor
+  112  brew install wget
+  113  wget
+  114  wget https://developer.apple.com/downloads/index.action
+  115  brew uninstall wget
+  116  make
+  117  vim exer1_1.py
+  118  python3 exer1_1.py 
+  119  vim intro_to_turtle.py
+  120  vim ~/.gimrc 
+  121  ls -al ~/ 
+  122  cp ~/.gimrc ~/.gvimrc
+  123  vim ~/.gvimrc
+  124  vim ~/.vimrc
+  125  pwd
+  126  cd python_study/
+  127  python intro_to_turtle.py
+  128  python OlympicSympbol.py 
+  129  clear
+  130  h
+  131  python3 pybook/OlympicSymbol.py 
+  132  python3 OlympicSympbol.py 
+  133  vim exer1_2.py
+  134  vim exer1_1.py 
+  135  wget
+  136  wget https://developer.apple.com/downloads/index.action
+  137  brew uninstall wget
+  138  make
+  139  vim exer1_1.py
+  140  python3 exer1_1.py 
+  141  vim intro_to_turtle.py
+  142  vim ~/.gimrc 
+  143  ls -al ~/ 
+  144  cp ~/.gimrc ~/.gvimrc
+  145  vim ~/.gvimrc
+  146  vim ~/.vimrc
+  147  pwd
+  148  python intro_to_turtle.py
+  149  python OlympicSympbol.py 
+  150  h
+  151  python3 pybook/OlympicSymbol.py 
+  152  python3 OlympicSympbol.py 
+  153  vim exer1_1.py 
+  154  vim
+  155  vim ~/.vimrc 
+  156  cd python_study/
+  157  vim exer1_2.py
+  158  python3 exer1_2.py
+  159  clear
+  160  vim exer1_3.py
+  161  x
+  162  vim exer1_3.py 
+  163  python3 exer1_3.py
+  164  xit
+  165  exit
+  166  python OlympicSympbol.py 
+  167  h
+  168  python3 pybook/OlympicSymbol.py 
+  169  python3 OlympicSympbol.py 
+  170  vim exer1_1.py 
+  171  vim
+  172  vim ~/.vimrc 
+  173  vim exer1_2.py
+  174  python3 exer1_2.py
+  175  clear
+  176  vim exer1_3.py
+  177  x
+  178  vim exer1_3.py 
+  179  python3 exer1_3.py
+  180  xit
+  181  exit
+  182  cd python_study/
+  183  python3 exer1_3.py 
+  184  vim exer1_4.py
+  185  /usr/local/bin/python3
+  186  ls
+  187  ll
+  188  python3 exer1_8.py 
+  189  python3 exer1_10.py 
+  190  mplayer /Users/mult1c4st/Desktop/Vim\ Essential\ Plugin_\ NERDTree.mp4 
+  191  mplayer
+  192  ifconfig
+  193  ping 8.8.8.8
+  194  vim exer1_4.py
+  195  /usr/local/bin/python3
+  196  ll
+  197  python3 exer1_8.py 
+  198  python3 exer1_10.py 
+  199  mplayer /Users/mult1c4st/Desktop/Vim\ Essential\ Plugin_\ NERDTree.mp4 
+  200  mplayer
+  201  ifconfig
+  202  ping 8.8.8.8
+  203  cd python_study/
+  204  python3 exer1_11.py 
+  205  ls
+  206  clear
+  207  exit
+  208  python OlympicSympbol.py 
+  209  h
+  210  python3 pybook/OlympicSymbol.py 
+  211  python3 OlympicSympbol.py 
+  212  vim exer1_1.py 
+  213  vim
+  214  vim ~/.vimrc 
+  215  vim exer1_2.py
+  216  python3 exer1_2.py
+  217  vim exer1_3.py
+  218  x
+  219  vim exer1_3.py 
+  220  python3 exer1_3.py
+  221  xit
+  222  exit
+  223  python3 exer1_3.py 
+  224  vim exer1_4.py
+  225  /usr/local/bin/python3
+  226  ls
+  227  ll
+  228  python3 exer1_8.py 
+  229  python3 exer1_10.py 
+  230  mplayer /Users/mult1c4st/Desktop/Vim\ Essential\ Plugin_\ NERDTree.mp4 
+  231  mplayer
+  232  ifconfig
+  233  ping 8.8.8.8
+  234  vim exer1_4.py
+  235  /usr/local/bin/python3
+  236  ll
+  237  python3 exer1_8.py 
+  238  python3 exer1_10.py 
+  239  mplayer /Users/mult1c4st/Desktop/Vim\ Essential\ Plugin_\ NERDTree.mp4 
+  240  mplayer
+  241  ifconfig
+  242  ping 8.8.8.8
+  243  python3 exer1_11.py 
+  244  ls
+  245  cd python_study/
+  246  vim exer1_12.py
+  247  python evennumberedexercise/Exercise1_12.py 
+  248  python exer1_12.py
+  249  python exer1_14.py
+  250  python3 exer1_16.py
+  251  python3 exer1_18.py
+  252  clear
+  253  python3 exer1_20.py
+  254  python3 exer1_10.py 
+  255  mplayer /Users/mult1c4st/Desktop/Vim\ Essential\ Plugin_\ NERDTree.mp4 
+  256  mplayer
+  257  ifconfig
+  258  ping 8.8.8.8
+  259  python3 exer1_11.py 
+  260  ls
+  261  vim exer1_12.py
+  262  python evennumberedexercise/Exercise1_12.py 
+  263  python exer1_12.py
+  264  python exer1_14.py
+  265  python3 exer1_16.py
+  266  python3 exer1_18.py
+  267  clear
+  268  python3 exer1_20.py
+  269  cd python_study/
+  270  python3 ComputeAverageWithSimultaneousAssignment.py 
+  271  python pybook/ComputeAverageWithSimultaneousAssignment.py 
+  272  python3 pybook/ComputeAverageWithSimultaneousAssignment.py 
+  273  python3 DisplayTime.py 
+  274  python pybook/ComputeAverageWithSimultaneousAssignment.py 
+  275  python3 pybook/ComputeAverageWithSimultaneousAssignment.py 
+  276  python3 DisplayTime.py 
+  277  cd python_study/
+  278  python3 SalesTax.py 
+  279  idle
+  280  idle3
+  281  cd '/Users/mult1c4st/python_study/pybook/' && '/usr/bin/pythonw'  '/Users/mult1c4st/python_study/pybook/DeckOfCards.py'  && echo Exit status: $? && exit 1
+  282  cd '/Users/mult1c4st/python_study/pybook/' && '/usr/bin/pythonw'  '/Users/mult1c4st/python_study/pybook/DeckOfCards.py'  && echo Exit status: $? && exit 1
+  283  mplayer /Users/mult1c4st/Desktop/Vim\ Essential\ Plugin_\ NERDTree.mp4 
+  284  mplayer
+  285  ifconfig
+  286  ping 8.8.8.8
+  287  python3 exer1_11.py 
+  288  ls
+  289  vim exer1_12.py
+  290  python evennumberedexercise/Exercise1_12.py 
+  291  python exer1_12.py
+  292  python exer1_14.py
+  293  python3 exer1_16.py
+  294  python3 exer1_18.py
+  295  clear
+  296  python3 exer1_20.py
+  297  python3 ComputeAverageWithSimultaneousAssignment.py 
+  298  python pybook/ComputeAverageWithSimultaneousAssignment.py 
+  299  python3 pybook/ComputeAverageWithSimultaneousAssignment.py 
+  300  python3 DisplayTime.py 
+  301  python pybook/ComputeAverageWithSimultaneousAssignment.py 
+  302  python3 pybook/ComputeAverageWithSimultaneousAssignment.py 
+  303  python3 DisplayTime.py 
+  304  python3 SalesTax.py 
+  305  idle
+  306  idle3
+  307  cd python_study/
+  308  python3 ShowCurrentTime.py 
+  309  vim ~/.gvimrc 
+  310  python ComputeLoan.py 
+  311  python3 ComputeLoan.py 
+  312  idle
+  313  python3 ShowCurrentTime.py 
+  314  vim ~/.gvimrc 
+  315  python ComputeLoan.py 
+  316  python3 ComputeLoan.py 
+  317  cp Downloads/molokai.vim ~/.vim/colors/
+  318  l
+  319  ;s
+  320  ls
+  321  cd python_study/
+  322  ll
+  323  cp ~/Downloads/twilight256.vim ~/.vim/colors/
+  324  cp ~/Downloads/wombat256mod.vim ~/.vim/colors/
+  325  vim ~/.gvimrc 
+  326  vim
+  327  vim
+  328  vim ~/.gvimrc 
+  329  macvim ~/.gvimrc 
+  330  gvim ~/.gvimrc 
+  331  clear
+  332  mvim ~/.gvimrc 
+  333  vim ~/.vimrc 
+  334  vim ~/.vimrc 
+  335  vim ~/.vimrc 
+  336  vim ~/.vimrc 
+  337  vim ~/.vimrc 
+  338  vim ~/.vimrc 
+  339  vim ~/.bash_profile 
+  340  vim ~/.vimrc 
+  341  h
+  342  vim ~/.gvimrc 
+  343  cd python_study/
+  344  python3 ComputeDistance.py 
+  345  python3 ComputeDistanceGraphics.py
+  346  ls
+  347  python3 exercises/exer2_1.py 
+  348  cat python_study/evennumberedexercise/Exercise2_2.py 
+  349  cat python_study/evennumberedexercise/Exercise2_3.py 
+  350  python3 exercises/exer2_1.py 
+  351  cat python_study/evennumberedexercise/Exercise2_2.py 
+  352  cat python_study/evennumberedexercise/Exercise2_3.py 
+  353  idle3
+  354  cat python_study/evennumberedexercise/Exercise2_6.py 
+  355  cat python_study/evennumberedexercise/Exercise2_2.py 
+  356  cat python_study/evennumberedexercise/Exercise2_3.py 
+  357  cat python_study/evennumberedexercise/Exercise2_6.py 
+  358  idle3
+  359  idle
+  360  idle
+  361  python3 ShowCurrentTime.py 
+  362  vim ~/.gvimrc 
+  363  python ComputeLoan.py 
+  364  python3 ComputeLoan.py 
+  365  cp Downloads/molokai.vim ~/.vim/colors/
+  366  l
+  367  ;s
+  368  ls
+  369  cd python_study/
+  370  ll
+  371  cp ~/Downloads/twilight256.vim ~/.vim/colors/
+  372  cp ~/Downloads/wombat256mod.vim ~/.vim/colors/
+  373  vim ~/.gvimrc 
+  374  vim
+  375  vim
+  376  vim ~/.gvimrc 
+  377  macvim ~/.gvimrc 
+  378  gvim ~/.gvimrc 
+  379  clear
+  380  mvim ~/.gvimrc 
+  381  vim ~/.vimrc 
+  382  vim ~/.vimrc 
+  383  vim ~/.vimrc 
+  384  vim ~/.vimrc 
+  385  vim ~/.vimrc 
+  386  vim ~/.vimrc 
+  387  vim ~/.bash_profile 
+  388  vim ~/.vimrc 
+  389  h
+  390  vim ~/.gvimrc 
+  391  cd python_study/
+  392  python3 ComputeDistance.py 
+  393  python3 ComputeDistanceGraphics.py
+  394  ls
+  395  python3 exercises/exer2_1.py 
+  396  cd python_study/exercises/
+  397  python3 exer2_2.py 
+  398  python3 exer2_3.py 
+  399  python3 exer2_4.py 
+  400  python3 exer2_5.py 
+  401  cat exer2_5.py 
+  402  python3 exer2_6.py 
+  403  python3 exer2_2.py 
+  404  python3 exer2_3.py 
+  405  python3 exer2_4.py 
+  406  python3 exer2_5.py 
+  407  cat exer2_5.py 
+  408  python3 exer2_6.py 
+  409  mkdir ~/.vim
+  410  git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+  411  git clone https://github.com/scrooloose/nerdtree.git
+  412  vim
+  413  vim ~/.vimrc 
+  414  mkdir -p ~/.vim/autoload
+  415  cd ~/.vim/bundle
+  416  git clone https://github.com/scrooloose/syntastic.git
+  417  python3 exer2_6.py 
+  418  vim ~/.vimrc 
+  419  ls /usr/bin/env
+  420  cat  /usr/bin/env
+  421  vim  /usr/bin/env
+  422  echo $PATH
+  423  echo $PATH
+  424  vim
+  425  cp ~/Downloads/twilight256.vim ~/.vim/colors/
+  426  cp ~/Downloads/wombat256mod.vim ~/.vim/colors/
+  427  vim ~/.gvimrc 
+  428  vim ~/.gvimrc 
+  429  macvim ~/.gvimrc 
+  430  gvim ~/.gvimrc 
+  431  mvim ~/.gvimrc 
+  432  vim ~/.bash_profile 
+  433  h
+  434  vim ~/.gvimrc 
+  435  cd python_study/
+  436  python3 ComputeDistance.py 
+  437  python3 ComputeDistanceGraphics.py
+  438  python3 exercises/exer2_1.py 
+  439  cd python_study/exercises/
+  440  python3 exer2_2.py 
+  441  python3 exer2_3.py 
+  442  python3 exer2_4.py 
+  443  python3 exer2_5.py 
+  444  cat exer2_5.py 
+  445  python3 exer2_6.py 
+  446  python3 exer2_2.py 
+  447  python3 exer2_3.py 
+  448  python3 exer2_4.py 
+  449  python3 exer2_5.py 
+  450  cat exer2_5.py 
+  451  python3 exer2_6.py 
+  452  mkdir ~/.vim
+  453  git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+  454  git clone https://github.com/scrooloose/nerdtree.git
+  455  mkdir -p ~/.vim/autoload
+  456  python3 exer2_6.py 
+  457  ls /usr/bin/env
+  458  cat  /usr/bin/env
+  459  vim  /usr/bin/env
+  460  echo $PATH
+  461  cd ~/.vim/
+  462  cd bundle/
+  463  ll
+  464  .
+  465  cd autoload/
+  466  cd
+  467  clear
+  468  git clone https://github.com/scrooloose/syntastic.git
+  469  pwd
+  470  git clone git://github.com/altercation/vim-colors-solarized.git
+  471  cd ..
+  472  cd colors/
+  473  rm -r solarized.vim 
+  474  vim
+  475  vim ~/.vimrc 
+  476  cp  ~/.vimrc ~/.gvimrc 
+  477  cd ~/.vim/bundle
+  478  ls
+  479  rm -rf python-mode/
+  480  git clone git://github.com/klen/python-mode.git
+  481  python3 exer2_6.py 
+  482  mkdir ~/.vim
+  483  git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+  484  git clone https://github.com/scrooloose/nerdtree.git
+  485  mkdir -p ~/.vim/autoload
+  486  git clone https://github.com/scrooloose/syntastic.git
+  487  python3 exer2_6.py 
+  488  ls /usr/bin/env
+  489  cat  /usr/bin/env
+  490  vim  /usr/bin/env
+  491  echo $PATH
+  492  cd ~/.vim/bundle
+  493  git clone https://github.com/bling/vim-airline ~/.vim/bundle/vim-airline
+  494  ls
+  495  vim ~/.vimrc 
+  496  vimw
+  497  vim
+  498  cp ~/.vimrc ~/.vimrc.before.nerdtree.airline.conflict
+  499  cp ~/.vimrc ~/.gvimrc 
+  500  ls ~/.vim/
+  501  cat ~/.vim/bundle/python-mode/doc/pymode.txt 
+  502  cd python_study/exercises/
+  503  python3 exer2_2.py 
+  504  python3 exer2_3.py 
+  505  python3 exer2_4.py 
+  506  python3 exer2_5.py 
+  507  cat exer2_5.py 
+  508  python3 exer2_6.py 
+  509  python3 exer2_2.py 
+  510  python3 exer2_3.py 
+  511  python3 exer2_4.py 
+  512  python3 exer2_5.py 
+  513  cat exer2_5.py 
+  514  python3 exer2_6.py 
+  515  mkdir ~/.vim
+  516  git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+  517  git clone https://github.com/scrooloose/nerdtree.git
+  518  mkdir -p ~/.vim/autoload
+  519  python3 exer2_6.py 
+  520  ls /usr/bin/env
+  521  cat  /usr/bin/env
+  522  vim  /usr/bin/env
+  523  echo $PATH
+  524  cd ~/.vim/
+  525  ll
+  526  .
+  527  cd
+  528  clear
+  529  git clone https://github.com/scrooloose/syntastic.git
+  530  pwd
+  531  git clone git://github.com/altercation/vim-colors-solarized.git
+  532  cd ..
+  533  cd colors/
+  534  rm -r solarized.vim 
+  535  cp  ~/.vimrc ~/.gvimrc 
+  536  cd ~/.vim/bundle
+  537  rm -rf python-mode/
+  538  git clone git://github.com/klen/python-mode.git
+  539  python3 exer2_6.py 
+  540  mkdir ~/.vim
+  541  git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+  542  git clone https://github.com/scrooloose/nerdtree.git
+  543  mkdir -p ~/.vim/autoload
+  544  git clone https://github.com/scrooloose/syntastic.git
+  545  python3 exer2_6.py 
+  546  ls /usr/bin/env
+  547  cat  /usr/bin/env
+  548  vim  /usr/bin/env
+  549  echo $PATH
+  550  cd ~/.vim/bundle
+  551  git clone https://github.com/bling/vim-airline ~/.vim/bundle/vim-airline
+  552  vimw
+  553  cd ~/.vim
+  554  mkdir syntax
+  555  mkdir plugin
+  556  mkdir indent
+  557  mkdir doc
+  558  mkdir autoload
+  559  mkdir after
+  560  mkdir ftpplugin
+  561  mkdir ftplugin
+  562  rm -r ftpplugin/
+  563  vim
+  564  cd bundle/
+  565  cd vim-airline/
+  566  cd autoload/
+  567  cd airline
+  568  cd themes
+  569  ls
+  570  h
+  571  cp ~/.vimrc ~/.gvimrc 
+  572  vim ~/.vimrc 
+  573  textmate
+  574  mkdir doc
+  575  mkdir autoload
+  576  mkdir after
+  577  mkdir ftpplugin
+  578  mkdir ftplugin
+  579  rm -r ftpplugin/
+  580  cd bundle/
+  581  cd vim-airline/
+  582  cd autoload/
+  583  cd airline
+  584  cd themes
+  585  ls
+  586  h
+  587  vim ~/.vimrc 
+  588  cp ~/.vimrc ~/.gvimrc 
+  589  vim
+  590  cp ~/vimrc Desktop/
+  591  vim
+  592  vim checkmoto.py
+  593  cd ~/.vim
+  594  cd bundle/
+  595  .
+  596  ..
+  597  vim ~/.vimrc 
+  598  cd vim-airline/
+  599  cd autoload/
+  600  cd airline
+  601  cd themes
+  602  h
+  603  cp ~/.vimrc ~/.gvimrc 
+  604  cp ~/vimrc Desktop/
+  605  vim checkmoto.py
+  606  cd ~/.vim
+  607  cd bundle/
+  608  .
+  609  ..
+  610  mv ~/.vim/vimrc.vundle ~/.vim/syntax/
+  611  mv ~/.vim/syntax/syntastic_config.vim ~/.vim/syntax/syntastic_airline.vim
+  612  vim ~/.vimrc 
+  613  ls
+  614  pwd
+  615  vim test.py
+  616  vim
+  617  git init
+  618  touch README.md
+  619  vim README.md 
+  620  git add README.md 
+  621  git commit -m "ReadMe Commit"
+  622  git commit --amend --reset-author
+  623  git remote add origin https://github.com/palevelmode/dotfiles.git
+  624  exit
+  625  vim ~/.gvimrc 
+  626  vim ~/.gvimrc 
+  627  macvim ~/.gvimrc 
+  628  gvim ~/.gvimrc 
+  629  mvim ~/.gvimrc 
+  630  vim ~/.bash_profile 
+  631  vim ~/.gvimrc 
+  632  cd python_study/
+  633  python3 ComputeDistance.py 
+  634  python3 ComputeDistanceGraphics.py
+  635  python3 exercises/exer2_1.py 
+  636  cd python_study/exercises/
+  637  python3 exer2_2.py 
+  638  python3 exer2_3.py 
+  639  python3 exer2_4.py 
+  640  python3 exer2_5.py 
+  641  cat exer2_5.py 
+  642  python3 exer2_6.py 
+  643  python3 exer2_2.py 
+  644  python3 exer2_3.py 
+  645  python3 exer2_4.py 
+  646  python3 exer2_5.py 
+  647  cat exer2_5.py 
+  648  python3 exer2_6.py 
+  649  mkdir ~/.vim
+  650  git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+  651  git clone https://github.com/scrooloose/nerdtree.git
+  652  mkdir -p ~/.vim/autoload
+  653  cd ~/.vim/bundle
+  654  git clone https://github.com/scrooloose/syntastic.git
+  655  python3 exer2_6.py 
+  656  ls /usr/bin/env
+  657  cat  /usr/bin/env
+  658  vim  /usr/bin/env
+  659  echo $PATH
+  660  echo $PATH
+  661  cp ~/Downloads/twilight256.vim ~/.vim/colors/
+  662  cp ~/Downloads/wombat256mod.vim ~/.vim/colors/
+  663  vim ~/.gvimrc 
+  664  vim ~/.gvimrc 
+  665  macvim ~/.gvimrc 
+  666  gvim ~/.gvimrc 
+  667  mvim ~/.gvimrc 
+  668  vim ~/.bash_profile 
+  669  vim ~/.gvimrc 
+  670  cd python_study/
+  671  python3 ComputeDistance.py 
+  672  python3 ComputeDistanceGraphics.py
+  673  python3 exercises/exer2_1.py 
+  674  cd python_study/exercises/
+  675  python3 exer2_2.py 
+  676  python3 exer2_3.py 
+  677  python3 exer2_4.py 
+  678  python3 exer2_5.py 
+  679  cat exer2_5.py 
+  680  python3 exer2_6.py 
+  681  python3 exer2_2.py 
+  682  python3 exer2_3.py 
+  683  python3 exer2_4.py 
+  684  python3 exer2_5.py 
+  685  cat exer2_5.py 
+  686  python3 exer2_6.py 
+  687  mkdir ~/.vim
+  688  git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+  689  git clone https://github.com/scrooloose/nerdtree.git
+  690  mkdir -p ~/.vim/autoload
+  691  python3 exer2_6.py 
+  692  ls /usr/bin/env
+  693  cat  /usr/bin/env
+  694  vim  /usr/bin/env
+  695  echo $PATH
+  696  cd ~/.vim/
+  697  cd bundle/
+  698  .
+  699  cd autoload/
+  700  git clone https://github.com/scrooloose/syntastic.git
+  701  git clone git://github.com/altercation/vim-colors-solarized.git
+  702  cd colors/
+  703  rm -r solarized.vim 
+  704  cp  ~/.vimrc ~/.gvimrc 
+  705  cd ~/.vim/bundle
+  706  rm -rf python-mode/
+  707  git clone git://github.com/klen/python-mode.git
+  708  python3 exer2_6.py 
+  709  mkdir ~/.vim
+  710  git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+  711  git clone https://github.com/scrooloose/nerdtree.git
+  712  mkdir -p ~/.vim/autoload
+  713  git clone https://github.com/scrooloose/syntastic.git
+  714  python3 exer2_6.py 
+  715  ls /usr/bin/env
+  716  cat  /usr/bin/env
+  717  vim  /usr/bin/env
+  718  echo $PATH
+  719  cd ~/.vim/bundle
+  720  git clone https://github.com/bling/vim-airline ~/.vim/bundle/vim-airline
+  721  vimw
+  722  cp ~/.vimrc ~/.vimrc.before.nerdtree.airline.conflict
+  723  cp ~/.vimrc ~/.gvimrc 
+  724  ls ~/.vim/
+  725  cat ~/.vim/bundle/python-mode/doc/pymode.txt 
+  726  cd python_study/exercises/
+  727  python3 exer2_2.py 
+  728  python3 exer2_3.py 
+  729  python3 exer2_4.py 
+  730  python3 exer2_5.py 
+  731  cat exer2_5.py 
+  732  python3 exer2_6.py 
+  733  python3 exer2_2.py 
+  734  python3 exer2_3.py 
+  735  python3 exer2_4.py 
+  736  python3 exer2_5.py 
+  737  cat exer2_5.py 
+  738  python3 exer2_6.py 
+  739  mkdir ~/.vim
+  740  git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+  741  git clone https://github.com/scrooloose/nerdtree.git
+  742  mkdir -p ~/.vim/autoload
+  743  python3 exer2_6.py 
+  744  ls /usr/bin/env
+  745  cat  /usr/bin/env
+  746  vim  /usr/bin/env
+  747  echo $PATH
+  748  cd ~/.vim/
+  749  .
+  750  git clone https://github.com/scrooloose/syntastic.git
+  751  git clone git://github.com/altercation/vim-colors-solarized.git
+  752  cd colors/
+  753  rm -r solarized.vim 
+  754  cp  ~/.vimrc ~/.gvimrc 
+  755  cd ~/.vim/bundle
+  756  rm -rf python-mode/
+  757  git clone git://github.com/klen/python-mode.git
+  758  python3 exer2_6.py 
+  759  mkdir ~/.vim
+  760  git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+  761  git clone https://github.com/scrooloose/nerdtree.git
+  762  mkdir -p ~/.vim/autoload
+  763  git clone https://github.com/scrooloose/syntastic.git
+  764  python3 exer2_6.py 
+  765  ls /usr/bin/env
+  766  cat  /usr/bin/env
+  767  vim  /usr/bin/env
+  768  echo $PATH
+  769  cd ~/.vim/bundle
+  770  git clone https://github.com/bling/vim-airline ~/.vim/bundle/vim-airline
+  771  vimw
+  772  mkdir syntax
+  773  mkdir plugin
+  774  mkdir indent
+  775  mkdir doc
+  776  mkdir autoload
+  777  mkdir after
+  778  mkdir ftpplugin
+  779  mkdir ftplugin
+  780  rm -r ftpplugin/
+  781  cd bundle/
+  782  cd vim-airline/
+  783  cd autoload/
+  784  cd airline
+  785  cd themes
+  786  cp ~/.vimrc ~/.gvimrc 
+  787  textmate
+  788  mkdir doc
+  789  mkdir autoload
+  790  mkdir after
+  791  mkdir ftpplugin
+  792  mkdir ftplugin
+  793  rm -r ftpplugin/
+  794  cd bundle/
+  795  cd vim-airline/
+  796  cd autoload/
+  797  cd airline
+  798  cd themes
+  799  cp ~/.vimrc ~/.gvimrc 
+  800  cp ~/vimrc Desktop/
+  801  vim checkmoto.py
+  802  cd bundle/
+  803  .
+  804  mv ~/.vim/syntax/vimrc.vundle ~/.vim/syntax/bundles.vim
+  805  vim
+  806  vim ~/.vimrc 
+  807  cd ~/.vim
+  808  git init
+  809  git config --global user.name "Palevelmode"
+  810  git config --global user.email "palevelmode.gmail.com"
+  811  git add ~/.vimrc
+  812  git commit -m ".vimrc files commit"
+  813  git --version
+  814  git init project1
+  815  cd
+  816  cd project1/
+  817  ls .git/
+  818  tree .git
+  819  git add ~/.vim
+  820  cp ~/.vim/ 
+  821  cp ~/.vim/ .
+  822  cp ~/.vim/ ~/project1/
+  823  cp -rf ~/.vim/ ~/project1
+  824  rm -rf .DS_Store 
+  825  pwdcd
+  826  cp ~/.vimrc ~/project1/
+  827  git branch -a
+  828  git clone https://github.com/palevelmode/dotfiles.git
+  829  git commit -m ".vimrc commit"
+  830  git clone https://github.com/palevelmode/vimrc.git
+  831  gi status
+  832  git add ~/project1/.vimrc
+  833  rm -rf project1/
+  834  git init githubrepo
+  835  cd githubrepo/
+  836  cp -rf ~/.vim/* ~/githubrepo/
+  837  gitstatus
+  838  cp ~/.vimrc ~/githubrepo/vimrc_
+  839  git add vimrc_ 
+  840  git commit -m "vimrc_ file commit"
+  841  git help
+  842  git statuz
+  843  git add bundle/
+  844  git add colors/
+  845  git add syntax/
+  846  cd ..
+  847  rm -rf githubrepo/
+  848  vim vimrc 
+  849  rm -rf vimrc 
+  850  git commit -m "vimrc_ files added"
+  851  git add .vimrc 
+  852  ls a-al
+  853  mv .vimrc vimrc
+  854  git add vimrc 
+  855  git commit -m "vimrc file is added"
+  856  git commit -m "2nd commit"
+  857  git commit -m "Added ~/.vim/ config files."
+  858  clear
+  859  git push
+  860  git commit
+  861  ls -al
+  862  git rebase --continue
+  863  rm -rf vimrc
+  864  ..
+  865  rm -rf gitrepo/
+  866  git init gitrepo
+  867  ls
+  868  pwd
+  869  cd gitrepo/
+  870  git pull https://github.com/palevelmode/dotfiles.git
+  871  cp ~/.vim/* ~/gitrepo/
+  872  cp -rf ~/.vim/* ~/gitrepo/
+  873  ll
+  874  git add bundle/ colors/ syntax/
+  875  git commit -m "added .vim files"
+  876  h
+  877  git remote add origin https://github.com/palevelmode/vimrc.git
+  878  git push origin master
+  879  git remote delete origin https://github.com/palevelmode/vimrc.git
+  880  git remote remove origin https://github.com/palevelmode/vimrc.git
+  881  git remote remove origin https://github.com/palevelmode/dotfiles.git
+  882  git remote rm origin
+  883  git remote add origin https://github.com/palevelmode/dotfiles.git
+  884  git remote add origin https://github.com/palevelmode/vimrc.git
+  885  git push origin master
+  886  git remote delete origin https://github.com/palevelmode/vimrc.git
+  887  git remote remove origin https://github.com/palevelmode/vimrc.git
+  888  git remote remove origin https://github.com/palevelmode/dotfiles.git
+  889  git remote rm origin
+  890  git remote add origin https://github.com/palevelmode/dotfiles.git
+  891  cp .bash_profile ~/gitrepo/
+  892  cd gitrepo/
+  893  git add .bash_profile 
+  894  git commit -m "added .bash_profile file"
+  895  ls
+  896  cd /usr/share/vim/
+  897  cd -
+  898  pwd
+  899  -- -=
+  900  -- -
+  901  ---
+  902  d
+  903  dl
+  904  dt
+  905  j
+  906  edit
+  907  cd ~
+  908  type -all
+  909  clear
+  910  type -all
+  911  clear
+  912  vim
+  913  d Downloads/
+  914  d
+  915  ddl
+  916  ddldl
+  917  dl
+  918  cd YouCompleteMe-master
+  919  ls
+  920  sh run_tests.sh 
+  921  cat run_tests.sh 
+  922  make
+  923  gcc
+  924  make
+  925  gcc
+  926  export PATH=$PATH:/Applications/
+  927  echo $PATH
+  928  mvim
+  929  mvim -v
+  930  gcc
+  931  vim
+  932  vim ~/.bash_profile 
+  933  gcc
+  934  mvim -v
+  935  gcc
+  936  export $PATH
+  937  h
+  938  echo $PATH
+  939  sudo export PATH=$PATH:/Applications/
+  940  export PATH=$PATH:/Applications/[B
+  941  mvim
+  942  vim
+  943  clear
+  944  vim ~/.bash_profile 
+  945  mvim
+  946  vim
+  947  vim ~/.bash_profile 
+  948  mvim
+  949  vim ~/.vim/syntax/bundles.vim 
+  950  vim
+  951  cmake
+  952  vim
+  953  cd ~/.vim/bundle/
+  954  git clone https://github.com/Valloric/YouCompleteMe.git
+  955  cd ~/.vim/bundle/YouCompleteMe
+  956  ./install.sh 
+  957  git submodule update --init --recursive
+  958  ls
+  959  cd ~
+  960  mkdir ycm_build
+  961  cd ycm_build
+  962  cmake -G "Unix Makefiles" . ~/.vim/bundle/YouCompleteMe/cpp
+  963  make ycm_support_libs
+  964  clear
+  965  make ycm_support_libs
+  966  vim test.py 
+  967  vim python_study/pybook/EightQueens.py 
+  968  clear
+  969  python3 python_study/pybook/EightQueens.py 
+  970  python3 python_study/exercises/exer1_10.py 
+  971  python3 python_study/pybook/ControlCircle.py 
+  972  make ycm_support_libs
+  973  clear
+  974  make ycm_support_libs
+  975  vim test.py 
+  976  vim python_study/pybook/EightQueens.py 
+  977  clear
+  978  python3 python_study/pybook/EightQueens.py 
+  979  python3 python_study/exercises/exer1_10.py 
+  980  python3 python_study/pybook/ControlCircle.py 
+  981  vim ~/.vimrc
+  982  cp ~/.vimrc ~/.gvimrc
+  983  vim ~/.vim/syntax/syntastic_airline.vim 
+  984  vim ~/.vim/syntax/syntastic_airline.vim 
+  985  vim ~/.vim/syntax/syntastic_airline.vim 
+  986  vim ~/.vim/syntax/syntastic_airline.vim 
+  987  vim ~/.vim/syntax/syntastic_airline.vim 
+  988  vim ~/.vim/syntax/syntastic_airline.vim 
+  989  vim
+  990  vim
+  991  vim
+  992  vim
+  993  vim
+  994  vim
+  995  vim ~/.vim/syntax/syntastic_airline.vim 
+  996  vim ~/.vim/syntax/syntastic_airline.vim 
+  997  vim ~/.vim/syntax/syntastic_airline.vim 
+  998  vim
+  999  vim
+ 1000  vim
+ 1001  cp ~/.vimrc ~/.gvimrc
+ 1002  vim ~/.vim/syntax/syntastic_airline.vim 
+ 1003  clear
+ 1004  vim
+ 1005  vim
+ 1006  ls
+ 1007  git init gitrepo/
+ 1008  cp -rf ~/.vim/* ~/gitrepo/
+ 1009  man cp
+ 1010  cp -R ~/.vim/* ~/gitrepo/
+ 1011  cp -r ~/.vim/* ~/gitrepo/
+ 1012  clear
+ 1013  git init ~/gitrepo/
+ 1014  cd ~/gitrepo/
+ 1015  git add syntax/ bundle/
+ 1016  git commit -m "Added YCM ~ etc..."
+ 1017  cp ~/.vimrc ~/gitrepo/
+ 1018  cp ~/.bash_profile ~/gitrepo/
+ 1019  git add .bash_profile .vimrc 
+ 1020  git status
+ 1021  git commit -m "modified .bash_profile & .vimrc files"
+ 1022  git remote -v
+ 1023  git push -u origin master
+ 1024  c
+ 1025  history > ~/Documents/history_2-26-2014.txt
