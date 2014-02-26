@@ -29,7 +29,7 @@ export PS2="| => "
 #   ------------------------------------------------------------
 export PATH="$PATH:/usr/local/bin/"
 export PATH="/usr/local/git/bin:/sw/bin/:/usr/local/bin:/usr/local/:/usr/local/sbin:/usr/local/mysql/bin:$PATH"
-
+export PATH="$PATH:/Applications/"
 
 export HISTFILESIZE=10000
 export HISTCONTROL=erasedups
@@ -39,7 +39,7 @@ shopt -s histappend
 #   -----------------------------
 #   2.  MAKE TERMINAL BETTER
 #   -----------------------------
-
+alias vim='mvim -v'
 alias cp='cp -iv'                           # Preferred 'cp' implementation
 alias mv='mv -iv'                           # Preferred 'mv' implementation
 alias mkdir='mkdir -pv'                     # Preferred 'mkdir' implementation

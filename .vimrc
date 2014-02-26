@@ -4,7 +4,7 @@
 source ~/.vim/syntax/bundles.vim
 source ~/.vim/syntax/nerdtree_config.vim
 source ~/.vim/syntax/syntastic_airline.vim
-
+source ~/.vim/syntax/ycm.vim
 
 if has("syntax")
   syntax on
